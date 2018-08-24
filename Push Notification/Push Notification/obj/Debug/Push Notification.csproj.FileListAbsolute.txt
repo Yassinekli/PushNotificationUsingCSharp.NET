@@ -1,0 +1,62 @@
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\ApplicationInsights.config
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\roslyn\csc.exe
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\roslyn\vbc.exe
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\Push Notification.dll.config
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\Push Notification.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\Push Notification.pdb
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\EntityFramework.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\EntityFramework.SqlServer.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\Microsoft.AI.Web.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\System.Web.Helpers.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\System.Web.Mvc.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\System.Web.Razor.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\System.Web.Webpages.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\System.Web.Webpages.Razor.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\EntityFramework.xml
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\EntityFramework.SqlServer.xml
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\Microsoft.AI.Web.xml
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\System.Web.Razor.xml
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\System.Web.Webpages.xml
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\System.Web.Webpages.Razor.xml
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\System.Web.Helpers.xml
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\System.Web.Mvc.xml
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\fr\EntityFramework.resources.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\fr\System.Web.Webpages.resources.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\fr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\fr\System.Web.Webpages.Razor.resources.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\obj\Debug\Push Notification.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\obj\Debug\Push Notification.pdb
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\BouncyCastle.Crypto.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\Newtonsoft.Json.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\WebPush.dll
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\BouncyCastle.Crypto.xml
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\bin\Newtonsoft.Json.xml
+C:\Users\Yassine\Desktop\Push Notification\Push Notification\obj\Debug\Push Notification.csprojResolveAssemblyReference.cache

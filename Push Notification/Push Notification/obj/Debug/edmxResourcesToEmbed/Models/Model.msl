@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="Test_Push_Notification_DBEntities">
+    <EntitySetMapping Name="SubscribersSet">
+      <EntityTypeMapping TypeName="Model.SubscribersSet">
+        <MappingFragment StoreEntitySet="SubscribersSet">
+          <ScalarProperty Name="Subscriber_ID" ColumnName="Subscriber_ID" />
+          <ScalarProperty Name="endPoint" ColumnName="endPoint" />
+          <ScalarProperty Name="auth" ColumnName="auth" />
+          <ScalarProperty Name="p256dh" ColumnName="p256dh" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
